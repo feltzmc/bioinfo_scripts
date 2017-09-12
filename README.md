@@ -1,6 +1,6 @@
 # bioinfo_scripts
 
-# HEREIN: An explanation of what each script is supposed to do (they should all be working, most have hard coded paths that may need to be changed)
+HEREIN: An explanation of what each script is supposed to do (most are in working order, some have hard coded paths that may need to be changed)
 
 -awk_seq_extract.sh
 Awk one-liner to do the same thing as extract_fasta_seqs.py
